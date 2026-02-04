@@ -1,0 +1,2 @@
+-link the comic css in head
+-put the h1 h3 in a div with an id named "tieude" pre in an individual div with classes named "comp"
